@@ -1,0 +1,51 @@
+{
+  "app": "superset",
+  "entrypoints": {
+    "preamble": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.5ffa7e38.entry.js",
+        "/static/assets/preamble.b1129d32.entry.js"
+      ]
+    },
+    "theme": {
+      "css": [],
+      "js": [
+        "/static/assets/theme.b6beec94.entry.js"
+      ]
+    },
+    "menu": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.5ffa7e38.entry.js",
+        "/static/assets/vendors-node_modules_reduxjs_toolkit_dist_query_react_rtk-query-react_esm_js-node_modules_ace-dc5006.9acc252e.entry.js",
+        "/static/assets/node_modules_moment_locale_sync_recursive_-packages_superset-ui-core_src_ui-overrides_Extensi-671604.10056cf3.entry.js",
+        "/static/assets/menu.889fcbd0.entry.js"
+      ]
+    },
+    "spa": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.5ffa7e38.entry.js",
+        "/static/assets/thumbnail.a19b0ff2.entry.js",
+        "/static/assets/vendors-node_modules_reduxjs_toolkit_dist_query_react_rtk-query-react_esm_js-node_modules_ace-dc5006.9acc252e.entry.js",
+        "/static/assets/vendors-node_modules_ace-builds_src-min-noconflict_mode-css_js-node_modules_ace-builds_src-mi-12e560.7d32ad87.entry.js",
+        "/static/assets/node_modules_moment_locale_sync_recursive_-packages_superset-ui-core_src_ui-overrides_Extensi-671604.10056cf3.entry.js",
+        "/static/assets/src_components_ErrorBoundary_index_tsx-src_components_MessageToasts_ToastContainer_tsx-src_se-1ba254.472642f0.entry.js",
+        "/static/assets/spa.b28c3154.entry.js"
+      ]
+    },
+    "embedded": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.5ffa7e38.entry.js",
+        "/static/assets/thumbnail.a19b0ff2.entry.js",
+        "/static/assets/vendors-node_modules_reduxjs_toolkit_dist_query_react_rtk-query-react_esm_js-node_modules_ace-dc5006.9acc252e.entry.js",
+        "/static/assets/vendors-node_modules_ace-builds_src-min-noconflict_mode-css_js-node_modules_ace-builds_src-mi-12e560.7d32ad87.entry.js",
+        "/static/assets/node_modules_moment_locale_sync_recursive_-packages_superset-ui-core_src_ui-overrides_Extensi-671604.10056cf3.entry.js",
+        "/static/assets/src_components_ErrorBoundary_index_tsx-src_components_MessageToasts_ToastContainer_tsx-src_se-1ba254.472642f0.entry.js",
+        "/static/assets/embedded.6dcfbb86.entry.js"
+      ]
+    }
+  }
+}
